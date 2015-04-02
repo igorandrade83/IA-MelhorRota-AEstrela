@@ -1,0 +1,27 @@
+01	A	D
+02	A	C
+03	A	B
+04	A	I
+05	B	E
+07	C	E
+09	C	I
+06	D	F
+10	E	I
+08	F	G
+11	G	H
+12	G	I
+13	H	I
+		
+{"pista":01,"ponto1":"A","ponto2":"D","distancia":70,"qualidade":""}
+{"pista":02,"ponto1":"A","ponto2":"C","distancia":60,"qualidade":""}
+{"pista":03,"ponto1":"A","ponto2":"B","distancia":10,"qualidade":""}
+{"pista":04,"ponto1":"A","ponto2":"I","distancia":200,"qualidade":""}
+{"pista":05,"ponto1":"B","ponto2":"E","distancia":30,"qualidade":""}
+{"pista":07,"ponto1":"C","ponto2":"E","distancia":80,"qualidade":""}
+{"pista":09,"ponto1":"C","ponto2":"I","distancia":70,"qualidade":""}
+{"pista":06,"ponto1":"D","ponto2":"F","distancia":20,"qualidade":""}
+{"pista":10,"ponto1":"E","ponto2":"I","distancia":50,"qualidade":""}
+{"pista":08,"ponto1":"F","ponto2":"G","distancia":25,"qualidade":""}
+{"pista":11,"ponto1":"G","ponto2":"H","distancia":30,"qualidade":""}
+{"pista":12,"ponto1":"G","ponto2":"I","distancia":110,"qualidade":""}
+{"pista":13,"ponto1":"H","ponto2":"I","distancia":90,"qualidade":""}
